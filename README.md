@@ -4,12 +4,12 @@
 
 #### Data
 
-##### All of the data used in this project is from Kaggle (https://www.kaggle.com/datasnaek/youtube-new). The following files are used in this project:
+All of the data used in this project is from Kaggle (https://www.kaggle.com/datasnaek/youtube-new). The following files are used in this project:
 
-###### GB_category_id.json
-###### GBvideos.csv
-###### US_category_id.json
-###### USvideos.csv
+o GB_category_id.json
+o GBvideos.csv
+o US_category_id.json
+o USvideos.csv
 
 
 
